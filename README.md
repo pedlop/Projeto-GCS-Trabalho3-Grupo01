@@ -54,4 +54,4 @@ Professor [Rubens de Castro Pereira](mailto:rubenscp@gmail.com).
 	* Data de criação: dd/mm/aaaa
 	* Hora de criação: hh:mm:ss
 
-* Haviamos criado um repositório no início dessa semana, mas resolvemos apagá-lo e criar novamente, devido a alguns experimentos que deram errado. Este pode ser visualizado [clicando aqui]().
+* Haviamos criado um repositório no início dessa semana, mas resolvemos apagá-lo e criar novamente, devido a alguns experimentos que deram errado. Este pode ser visualizado [clicando aqui](https://github.com/pedlop/projeto-gcs-trabalho3-grupo01/blob/master/3-Diversos/3.03-Fotos/1%C2%BA%20Reposit%C3%B3rio.JPG).
